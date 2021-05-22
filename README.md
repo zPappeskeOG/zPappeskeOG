@@ -1,8 +1,4 @@
 ![welcome](https://cdn.discordapp.com/avatars/693091528800993442/a_b7f03809504a0726e503811d6f9420c3.gif?size=256&f=.gif)
-```js
-<Quote>
-"HALLAIEN PÅ KAIEN" :).
-```
 
 - 🌱 Jobber for det meste med Norsk Musikk BOT / Norsk Giveaway BOT 🤣
 - 💎 Streamer også :D.
